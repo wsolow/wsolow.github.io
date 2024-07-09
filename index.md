@@ -2,4 +2,4 @@ Welcome! I am a PhD student at [Oregon State University](https://engineering.ore
 
 My research interests lie in designing autonomous agents that are safe and reliable. I currently work on constraint inference methods in reinforcement learning, motivated by safety-critical applications to [agriculture](https://agaid.org/).
 
-![Image](/assets/iamges/profile.JPG)
+![ProfilePic]({{ site.url }}/assets/images/profile.JPG)
