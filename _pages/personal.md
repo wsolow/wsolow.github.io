@@ -1,5 +1,5 @@
 ---
-permalink: /personal/
+permalink: personal/
 author_profile: true
 ---
 
