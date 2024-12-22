@@ -9,37 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume/CV Download](/files/resume.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Artificial Intelligence, Oregon State University, 2028 (expected)
+* M.S. in Artificial Intelligence, Oregon State University, 2025 (expected)
+* B.A. in Mathematics, Colby College, 2022
+* B.A. in Computer Science, Colby College, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2021: NSF REU Undergraduate Researcher
+  * Montana State University
+  * Worked on the Circular Pattern Matching problem with applications to malware detection and DNA analysis.
+  * Supervisor: Dr. Brendan Mumey, Dr. Clemente Izurieta
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020 - Spring 2022: Undergraduate Research Assistant
+  * Colby College
+  * Worked with an interdisciplinary team to analyze the structure of water molecules using evolutionary algorithms.
+  * Supervisor: Dr. Eric Aaron, Dr. Lindsey Madison
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python/Numpy/Pytorch
+  * MATLAB
 
 Publications
 ======
@@ -61,4 +56,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Secretary of Finance, Aritificial Intelligence Graduate Student Association, Oregon State University
+* Volunteer Reviewer, AI Admitted Students Program, Oregon State University
