@@ -1,12 +1,17 @@
 ---
+title: "WOFOSTGym: A Crop Simulator for Learning Annual and Perennial Crop Management Strategies"
+collection: publications
+category: arxiv
+permalink: /publication/2025-05-21-WOFOST-Gym
+date: 2025-05-21
+venue: 'Reinforcement Learning Conference 2025'
+paperurl: 'https://arxiv.org/abs/2502.19308'
+---
+---
 title: "Fast Circular Pattern Matching"
 collection: publications
 category: arxiv
-permalink: /publication/2022-04-20-Fast-Circular-Pattern-Matching
-excerpt: 'This paper proposes a novel approach to the Circular Pattern Matching Problem using Suffix Trees. Work was performed at Montana State University, funded by an NSF REU grant.'
 date: 2022-04-20
 venue: 'ArXiv'
-slidesurl: # NONE
 paperurl: 'https://arxiv.org/abs/2204.09562'
-citation: 'Solow, W., Barich, M., & Mumey, B. (2022). Fast circular pattern matching. arXiv. https://arxiv.org/abs/2204.09562.'
 ---
