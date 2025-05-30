@@ -17,6 +17,6 @@ Previously, I have worked on constraint inference methods in reinforcement learn
 
 My work is currently funded by the [AgAid Institue](https://agaid.org/). 
 
-I've been fortunate to have the opportunity to work with interdisciplinary teams in Agriculture and Chemistry. I enjoy working on problems in ML/AI that are motivated by real-world applications, particularly in Agriculture, Climate, and Healthcare. The problem statements that naturally arise in these settings provide an exciting array of challenges from an AI perspective, with the promise of directly impacting humans.
+I've been fortunate to have the opportunity to work with interdisciplinary teams in agriculture and computational chemistry. I enjoy working on problems in ML/AI that are motivated by real-world applications, particularly in agriculture and Climate. The problem statements that naturally arise in these settings provide an exciting array of challenges from an AI perspective, with the promise of rapid deployment to help end-users. 
 
 Interested in collaborating on a problem? Please email me!
