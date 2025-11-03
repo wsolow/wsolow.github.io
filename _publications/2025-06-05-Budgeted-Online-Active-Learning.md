@@ -1,9 +1,9 @@
 ---
 title: "Budgeted Online Active Learning with Expert Advice and Episodic Priors"
 collection: publications
-category: arxiv
+category: conference
 permalink: /publication/2025-06-05-Budgeted-Online-Active-Learning
 date: 2025-06-05
-venue: 'ArXiv'
+venue: 'AAAI2026'
 paperurl: 'https://arxiv.org/abs/2506.03307'
 ---
