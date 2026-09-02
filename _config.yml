@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : https://scholar.google.com/citations?user=Bjfh0K4AAAAJ&hl=en
+  googlescholar    : https://scholar.google.com/citations?user=mkO7nOoAAAAJ
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : will-solow
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -82,12 +82,12 @@ publication_category:
     title: 'Journal Articles'    
   conference:
     title: 'Conference Papers'
+  ureview:
+    title: 'Under Review'
   workshop:
     title: 'Workshop Papers'
   arxiv:
     title: 'ArXiv Papers'
-  unpublished:
-    title: 'Unpublished'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
