@@ -5,5 +5,5 @@ category: conference
 permalink: /publication/2025-05-21-WOFOST-Gym
 date: 2025-05-21
 venue: 'Reinforcement Learning Conference (Distinguished Paper Award in Applications of Reinforcement Learning)'
-paperurl: 'https://arxiv.org/abs/2502.19308'
+paperurl: 'https://rlj.cs.umass.edu/2025/papers/RLJ_RLC_2025_55.pdf'
 ---

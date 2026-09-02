@@ -82,6 +82,8 @@ publication_category:
     title: 'Journal Articles'    
   conference:
     title: 'Conference Papers'
+  workshop:
+    title: 'Workshop Papers'
   arxiv:
     title: 'ArXiv Papers'
   unpublished:
