@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: personal/
 author_profile: true
 ---
