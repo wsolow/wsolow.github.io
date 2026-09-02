@@ -4,6 +4,7 @@
 
 .archive {
   margin-bottom: 2em;
+  font-size: $type-size-6;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -11,7 +12,23 @@
 
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    @include prefix(0.25 of 12);
+  }
+
+  .page__title {
+    font-size: $type-size-4;
+  }
+
+  h2 {
+    font-size: $type-size-5;
+  }
+
+  .archive__item-title {
+    font-size: $type-size-5;
+  }
+
+  p, li {
+    font-size: inherit;
   }
 
   a {
@@ -90,17 +107,7 @@
    ========================================================================== */
 
 .list__item {
-  @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
-  }
-
-  @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
-  }
-
-  @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
-  }
+  padding-right: 0;
 
   .page__meta {
     margin: 0 0 4px;
